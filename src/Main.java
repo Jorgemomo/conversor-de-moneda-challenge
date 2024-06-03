@@ -1,6 +1,8 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-
+        int select = 0;
         String menu = """
                 *******************************************************************
                 Sea bienvenido/a al conversor de moneda del programa ALURA - ONE 🧮
@@ -19,7 +21,9 @@ public class Main {
                 *******************************************************************
                 """;
 
-        System.out.println(menu);
 
+QueryConversor query = new QueryConversor();
+ConversorMoney consulta =  query.searchPair("USD", "EUR", 2000.0);
+        System.out.println(consulta);
     }
 }
