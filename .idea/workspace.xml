@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b78d495a-ac91-40cd-b3cb-0b7ed5cc8503" name="Changes" comment="Se realiza menu en el main, crea clase para consulta. Se emplea HttpClient y HttpRquest">
-      <change afterPath="$PROJECT_DIR$/src/ConversorMoney.java" afterDir="false" />
+    <list default="true" id="b78d495a-ac91-40cd-b3cb-0b7ed5cc8503" name="Changes" comment="Implementación de conversor usando la clase QueryConversor e instanciando en clase Main. Se realizzn pruebas de petición">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QueryConversor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QueryConversor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +74,20 @@
       <option name="project" value="LOCAL" />
       <updated>1716765109925</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implementación de conversor usando la clase QueryConversor e instanciando en clase Main. Se realizzn pruebas de petición">
+      <option name="closed" value="true" />
+      <created>1717443939847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717443939847</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se realiza menu en el main, crea clase para consulta. Se emplea HttpClient y HttpRquest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se realiza menu en el main, crea clase para consulta. Se emplea HttpClient y HttpRquest" />
+    <MESSAGE value="Implementación de conversor usando la clase QueryConversor e instanciando en clase Main. Se realizzn pruebas de petición" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementación de conversor usando la clase QueryConversor e instanciando en clase Main. Se realizzn pruebas de petición" />
   </component>
 </project>
